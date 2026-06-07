@@ -57,6 +57,8 @@ python app.py
 
 ### 6. Open browser
 http://127.0.0.1:5000/
+🌐 Live Demo
+👉 https://fake-news-detection.onrender.com
 
 ## 🧠 How it Works
 1. Load dataset (news.csv)
